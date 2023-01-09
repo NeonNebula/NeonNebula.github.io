@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "On construct . . ."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Neon Nebula"
+name                     : "NN"
 description              : "Neon Nebula"
 url                      : "https://neonnebula.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
